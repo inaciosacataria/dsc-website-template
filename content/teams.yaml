@@ -1,8 +1,8 @@
-- name: John Doe
-  role: Mentor
+- name: Inacio Sacataria
+  role: GDSC Lead
   img: images/teams/avatar.png
   descs:
-    - Mobile and Web developer
+    - Android and Backend developer
     - Open source enthusiast
     - Community mentor
   social:
@@ -10,8 +10,8 @@
     github: https://www.example.com
     linkedin: https://www.example.com
 
-- name: John Doe 2
-  role: Mentor
+- name: Tsaman Indocate
+  role: Core Team
   img: images/teams/avatar.png
   descs:
     - Mobile and Web developer
@@ -21,8 +21,8 @@
     twitter: https://www.example.com
     github: https://www.example.com
 
-- name: John Doe 3
-  role: Mentor
+- name: Omar saide 
+  role: Core Team
   img: images/teams/avatar.png
   descs:
     - Mobile and Web developer
