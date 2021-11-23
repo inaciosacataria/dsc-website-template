@@ -1,6 +1,6 @@
 - title: 'Developer Student Club' # for <title> tag
   description: 'Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems' #Meta description
-  university: 'UniversityName'
+  university: 'Instituto de Tranportes e Comunicações'
   lang: 'en'
   register: '' # optional
   calendar: '' # optional
