@@ -27,29 +27,28 @@ const Header = () => {
               <div className="hero-title__group">
                 <div className="hero-title">
                   <h2 className="zuri">
-                    Developer Student Club <br /> {university} University.
+                    Developer Student Club <br /> {university}.
                   </h2>
                 </div>
                 <div className="Hero--Subtitle">
                   <p className="lead">
-                    Developer Student Clubs is a <first-letter>G</first-letter>
+                    'Developer Student Clubs(DSC) é programa do <first-letter>G</first-letter>
                     <third-letter>o</third-letter>
                     <second-letter>o</second-letter>
                     <first-letter>g</first-letter>
                     <forth-letter>l</forth-letter>
-                    <third-letter>e</third-letter> Developers program for
-                    university students to learn
-                    <second-letter> mobile </second-letter> and{' '}
-                    <first-letter>web development skills</first-letter>,{' '}
-                    <third-letter>design thinking skills</third-letter> and{' '}
-                    <forth-letter>leadership skills.</forth-letter>
+                    <third-letter>e</third-letter> Developers para estudantes de nivel ténico e universitários  adquirirem habilidades em 
+                    <second-letter> desevolvimento web </second-letter> e{' '}
+                    <first-letter>mobile</first-letter>,{' '}
+                    <third-letter>design thinking </third-letter> e{' '}
+                    <forth-letter>liderança.</forth-letter>
                   </p>
                 </div>
               </div>
               {calendar === '' ? null : (
                 <a className="hero-button" href={calendar}>
                   <FontAwesomeIcon icon={faCalendar} className="mr-2" />
-                  Add to calendar
+                  Tornar se Membro
                 </a>
               )}
             </div>

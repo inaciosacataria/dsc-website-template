@@ -1,23 +1,24 @@
-- header: Technologies We're Excited About
-  subheader: Opportunities to learn & access deep technical content.
+- header: Tecnologias que nos entusiasmam
+  subheader: Oportunidades de aprender e acessar conteúdo técnico profundo.
   technologies:
     - header: Android Development
-      body: Every year Google developers release exciting new updates to the world's most popular operating system. We always have sessions to keep you updated and mastering the latest trends in modern Android development.
+      body: Todos os anos, os desenvolvedores do Google lançam novas atualizações interessantes para o sistema operacional mais popular do mundo. Sempre temos sessões para mantê-lo atualizado e dominando as últimas tendências no desenvolvimento moderno do Android.
       img: images/technologies/android.png
       alt: Official android logo
       link: https://codelabs.developers.google.com/?cat=Android
-    - header: Web Development
-      body: Learn the core foundations of a delightful web experience both for the user and developer. Stay up to tabs with emerging and trending technologies. Get access to a guided, tutorial and hands-on coding experience.
+
+    - header: Desenvolvimento web
+      body: Aprenda os fundamentos básicos de uma experiência agradável na web, tanto para o usuário quanto para o desenvolvedor. Fique atualizado com as tecnologias emergentes e em alta. Obtenha acesso a uma experiência de codificação guiada, tutorial e prática.
       img: images/technologies/web.png
       alt: Developer building a progressive web app
       link: https://codelabs.developers.google.com/?cat=Web
     - header: Cloud Computing
-      body: For passionate developers who want to stay relevant in a cloud first world where businesses demand for agility and innovation and prompt rise of cloud-native applications to ridges gaps between data, insight, and action.
+      body: Para desenvolvedores apaixonados que desejam permanecer relevantes em um primeiro mundo da nuvem, onde as empresas exigem agilidade e inovação e promovem o surgimento de aplicativos nativos da nuvem para eliminar as lacunas entre dados, percepção e ação.
       img: images/technologies/cloud.png
       alt: Illustration of data uploading to the cloud
       link: https://codelabs.developers.google.com/?cat=Cloud
     - header: Machine Intelligence
-      body: Learn how to drive user engagement and retention with intelligent apps that are able to effectively serve users what they need without the fuss by providing these systems with the ability to utomatically learn and improve from experience without being explicitly programmed.
+      body: Aprenda como impulsionar o engajamento e a retenção do usuário com aplicativos inteligentes que são capazes de servir aos usuários de forma eficaz o que eles precisam sem confusão, fornecendo a esses sistemas a capacidade de aprender e melhorar de forma automática com a experiência sem serem programados explicitamente.
       img: images/technologies/mi.png
       alt: Robotic illustration of how many different things it can do
       link: https://codelabs.developers.google.com/?cat=TensorFlow
