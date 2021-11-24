@@ -7,14 +7,14 @@ import Technologies from '../components/index/Technologies'
 import Teams from '../components/index/Teams'
 import Faqs from '../components/index/Faqs'
 import Location from '../components/index/Location'
-import Workshops from '../components/index/Workshops'
+
 
 const Index = () => (
   <Layout>
     <Header />
     <Overviews />
     <Opportunities />
-    <Workshops/>
+  
     <Technologies />
     <Teams />
     <Faqs />

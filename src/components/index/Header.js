@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row'
 import image from '../../images/header/diversity.png'
 import { graphql, useStaticQuery } from 'gatsby'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCalendar } from '@fortawesome/free-solid-svg-icons'
+import { faCalendar,faUsers } from '@fortawesome/free-solid-svg-icons'
 
 const Header = () => {
   const {
@@ -47,8 +47,8 @@ const Header = () => {
               </div>
               {calendar === '' ? null : (
                 <a className="hero-button" href={calendar}>
-                  <FontAwesomeIcon icon={faCalendar} className="mr-2" />
-                  Tornar se Membro
+                  <FontAwesomeIcon icon={faUsers} className="mr-2" />
+                  inscrever-se
                 </a>
               )}
             </div>

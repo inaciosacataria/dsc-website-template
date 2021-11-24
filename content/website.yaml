@@ -3,7 +3,7 @@
   university: 'Instituto de Tranportes e Comunicações'
   lang: 'pt'
   register: 'https://gdsc.community.dev/events/details/developer-student-clubs-instituto-de-transporte-e-comunicacoes-itc-presents-google-developer-student-club-info-session-junte-a-nos/' # optional
-  calendar: '' # optional
+  calendar:  'https://gdsc.community.dev/events/details/developer-student-clubs-instituto-de-transporte-e-comunicacoes-itc-presents-google-developer-student-club-info-session-junte-a-nos/' # optional
   mail: '' # optional
   social:
     youtube: 'https://youtube.com'
