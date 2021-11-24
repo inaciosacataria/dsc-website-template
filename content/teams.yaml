@@ -12,7 +12,7 @@
 
 - name: Tsaman Indocate
   role: Core Team
-  img: images/teams/avatar.png
+  img: images/teams/ts.jpg
   descs:
     - Organizer
     - Open source enthusiast
@@ -23,7 +23,7 @@
 
 - name: Omar saide 
   role: Core Team
-  img: images/teams/avatar.png
+  img: images/teams/os.jpg
   descs:
     - Graphic Design
     - UX Design enthusiast

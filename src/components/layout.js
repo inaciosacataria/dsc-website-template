@@ -18,9 +18,9 @@ const Layout = ({ children }) => {
         register
         mail
         social {
-          youtube
+         
           github
-          twitter
+         
         }
       }
     }

@@ -26,9 +26,9 @@ const Footer = () => {
       websiteYaml {
         mail
         social {
-          youtube
+        
           github
-          twitter
+         
         }
       }
     }
